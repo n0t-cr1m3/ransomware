@@ -4,7 +4,7 @@ I'm happy to show you my OWN ransomware !
 
 (This script is not for all script kiddie ! You should do some edits for reach your goal !)
 
-Do a "pip install requirements.txt" for all library.
+Do a "pip install requirements.txt" for all librarys.
 
 Line 31 to line 142 I put shit code for a good obfuscation. Then I list every hard disk.(I don't use a variable for list every hard disk because I had some bugs with it)
 
