@@ -18,3 +18,4 @@ IMPORTANT : The ransomware just encrypt the .rtf files so add the extensions who
 
 I ADVICE YOU TO ADAPT THE SCRIPT TO YOUR PERSONNAL NEEDS !
 
+AND FOR FINISH I DON'T CARE ABOUT EDUCATIONAL AND PROPOSE ONLY !
