@@ -15,6 +15,7 @@ Then the browser open the bitcoin site for do the transaction.
 The ransomware also change the wallpaper. 
 And for finish the program create a graphical interface with some slogan, messages ect...
 
+If you have any problem with the script or with the librarys say it and I will can help you.
 
 IMPORTANT : The ransomware just encrypt the .rtf files so add the extensions who you want to encrypt. And this ransomware DON'T HAVE ANY DECRYPT KEY SO IF YOU ENCRYPT NOTHING WILL BE DECRYPT !!! 
 
