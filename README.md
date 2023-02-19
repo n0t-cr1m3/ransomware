@@ -4,6 +4,8 @@ I'm happy to show you my OWN ransomware !
 
 (This script is not for all script kiddie ! You should do some edits for reach your goal !)
 
+Do a "pip install requirements.txt" for all library.
+
 Line 31 to line 142 I put shit code for a good obfuscation. Then I list every hard disk.(I don't use a variable for list every hard disk because I had some bugs with it)
 
 After this you have 3 txt files. The first (READ_me.txt) is the file where you have all payment conditions ect... In the second file (TheKey.txt) you have the "decrypt key".
