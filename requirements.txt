@@ -1,0 +1,13 @@
+cryptography
+cryptodome
+webbrowser
+ctypes
+urllib
+requests
+subprocess
+tkinter
+datetime
+time
+socket
+pywin32
+random
