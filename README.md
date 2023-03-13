@@ -19,6 +19,6 @@ If you have any problem with the script or with the librarys say it and I will c
 
 IMPORTANT : The ransomware just encrypt the .rtf files so add the extensions who you want to encrypt. And this ransomware DON'T HAVE ANY DECRYPT KEY SO IF YOU ENCRYPT NOTHING WILL BE DECRYPT !!! 
 
-I ADVICE YOU TO ADAPT THE SCRIPT TO YOUR PERSONNAL NEEDS !
+I ADVICE YOU TO ADAPT THE SCRIPT TO YOUR PERSONNAL NEEDS ! 
 
 AND FOR FINISH I DON'T CARE ABOUT EDUCATIONAL AND PROPOSE ONLY !
